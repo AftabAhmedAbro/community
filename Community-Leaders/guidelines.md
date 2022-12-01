@@ -8,6 +8,11 @@ The document is not a comprehensive list of do’s and don’ts, but rather a li
 
 You are responsible for keeping abreast of changes to this document. If you need further clarification or are unable to fulfill any of the following guidelines, please let us know at your earliest convenience. 
 
+# How to become Docker Community Leader
+Becoming Docker Community Leader, you can help to drive the overall Docker community and ecosystem forward by actively engaging with other members of the community through virtual or in-person meetups, hackathons, conducting workshops and conferences.
+
+Link to apply: https://www.docker.com/community/leaders/
+
 # Embody the Docker Community Code of Conduct
 
 All Docker community members should strive to follow our community [Code of Conduct](https://github.com/docker/code-of-conduct). As a Docker organizer, its especially important to lead by showing model behavior at all times, both in person and online.  
